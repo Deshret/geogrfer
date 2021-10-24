@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @geogrfer
- I am a dedicated developer, geographer and a cartographer. I enjoy making things that help improve the way people move, learn, and experience the world.
+- 👋 Hi, I’m @geogrfer, a dedicated developer, geographer and a cartographer. I enjoy making things that help improve the way people move, learn, and experience the world.
 
 <!---
 geogrfer/geogrfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
